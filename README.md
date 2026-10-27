@@ -39,3 +39,12 @@ The game can be played, but some features are incomplete or not yet implemented:
 ## About
 
 This is a personal Unity project. It gave me hands-on experience exploring game mechanics, player behavior, and testing a playable build.
+
+## Tested on
+
+- Desktop PCs running Windows 10 and Windows 11
+
+
+
+
+
