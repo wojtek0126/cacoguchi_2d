@@ -13,7 +13,8 @@ The game can be played, but some features are incomplete or not yet implemented:
 - Some enemy types, including the mine-deploying UFO, are not implemented.
 - The scripts need refactoring.
 - The player’s death animation currently serves as the game-over state.
-- Defeating all enemies counts as a win, though a proper victory screen and end-of-game flow have not been implemented yet.
+- Defeating all enemies counts as a win, though a proper victory screen and end-of-game flow to be implemented.
+- Performance optimization to be implemented.
 
 ## How to play
 
