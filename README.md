@@ -12,6 +12,8 @@ The game can be played, but some features are incomplete or not yet implemented:
 - There is no ending screen, level progression, or return-to-menu option. After defeating all enemies, close the game manually.
 - Some enemy types, including the mine-deploying UFO, are not implemented.
 - The scripts need refactoring.
+- The player’s death animation currently serves as the game-over state.
+- Defeating all enemies counts as a win, though a proper victory screen and end-of-game flow have not been implemented yet.
 
 ## How to play
 
